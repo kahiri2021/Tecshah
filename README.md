@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta property="og:title" content="Click to Redirect" />
-    <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8a4aQNCDg5oAXFK75ifIfOgCDhI8fvEjWJqqVFgF6dkWENy-Zw5awH6u&s=10" />
-    <meta property="og:url" content="https://smallpdf.tools/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:description" content="Click here to visit the desired page!" />
+    <meta property="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn9epdF02oqpP9ZSuZpuPUkxAF9GG9hpUcw&s" content="Click to Redirect" />
+    <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn9epdF02oqpP9ZSuZpuPUkxAF9GG9hpUcw&s" />
+    <meta property="og:url" content="https://dser.xyz/" />
+    <meta property="og:type" content="Tecshah" />
+    <meta property="og:description" Kiya hall hai ap Kiya ="Click to visit the desired page!" />
+    <meta http-equiv="refresh" content="0; URL='https://dser.xyz/'" />
     <title>Redirecting...</title>
 </head>
 <body>
+    <p>Redirecting to your desired URL...</p>
     <script>
-        // JavaScript to directly redirect
-        window.location.href = "https://smallpdf.tools/";
+        // JavaScript fallback redirect
+        window.location.href = "https://dser.xyz/";
     </script>
 </body>
 </html>
